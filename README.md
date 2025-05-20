@@ -8,6 +8,7 @@ I love diving into all aspects of Computer Science—from building algorithms an
 
 🎯 Most Recent Project: https://github.com/wu-ada/26-CNM-Chatbot
 What We Did: Programmed an AI-powered multilingual chatbot for the Center for Non-Profit, collaborating with 4 other developers to reduce employee assistance time by nearly 70%.
+
 Tools: Python, HuggingFace embeddings, LangChain, Streamlit, GitHub
 
  
@@ -24,7 +25,9 @@ Databases: SQL, MySQL
 A few other noteworthy project I’ve worked on:
 
 E-Bullet Journal Application - Built a desktop GUI bullet-journal application with JavaFX, allowing users to note daily tasks and events in an intuitive interface.
+
 Learnings: Frontend development, App design
+
 Link: https://github.com/winniechuma/weekly-journal/tree/main
  
 
