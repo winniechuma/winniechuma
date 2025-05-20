@@ -2,14 +2,13 @@
 🎓 Rising Senior at Northeastern University, studying Computer Science and Business Administration with a concentration in Supply Chain Management
 🔭 Aspiring Software developer Enthusiast while utilizing my business skills 
 
-I love Computer Science and very open to trying to every aspect of it before decidind on what interest me more. I will list them more throughly down below, but I have worked on a game project, a jou7rnal kind project, AI related project, and databases related projects. I thought I wasn't into projects requiring alot of data reading and collecting, but as someone who is big on continuously learning and building my skills, I believe taking initiative is key to growth. A year ago, I was accepted into the Break Through Tech program, and I completed it this last Spring of 2025. I focused on building machine learning models and dived deeper into data science. I’m looking to leverage and grow my skills in a professional setting where I can contribute to exciting projects and learn from industry professionals.
- 
 
-🎯 Featured Project: https://github.com/wu-ada/26-CNM-Chatbot
-What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
-Tools: Python, spaCy, scikit-learn
-Result: 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
-Curious? See the full project hereLinks to an external site..
+I love diving into all aspects of Computer Science—from building algorithms and designing user interfaces to experimenting with data-driven models—so that I can discover what truly excites me. I am big on continuously learning and building my skills, and I believe taking initiative is key to growth. Over the past year, I was honored to join the Break Through Tech program, where I immersed myself in hands-on machine learning and data science coursework, collaborated with peers on real-world challenges, and refined my ability to translate research insights into practical solutions. In Fall 2025, I completed a project developing an AI-powered chatbot that could cut response times by nearly 70%, which made me become more curious in AI. I’m eager to bring this blend of curiosity, technical skill, and collaborative experience to a professional environment where I can both contribute to impactful projects and continue learning from industry professionals.
+
+
+🎯 Most Recent Project: https://github.com/wu-ada/26-CNM-Chatbot
+What We Did: Programmed an AI-powered multilingual chatbot for the Center for Non-Profit, collaborating with 4 other developers to reduce employee assistance time by nearly 70%.
+Tools: Python, HuggingFace embeddings, LangChain, Streamlit, GitHub
 
  
 
@@ -22,24 +21,16 @@ Databases: SQL, MySQL
  
 
 🚀 Projects:
-A few other noteworthy projects I’ve worked on:
+A few other noteworthy project I’ve worked on:
 
-MovieHub - Personalized Movie Recommender
-Links to an external site.Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.
-Tech Stack: Python, Flask, scikit-learn
-Learnings: Building recommendation systems and deploying applications
-LeetTracker - LeetCode Progress Tracker
-Links to an external site.A web app to track and visualize LeetCode problem-solving progress.
-Tech Stack: React, Firebase, Chart.js
-Learnings: Frontend development, data visualization, API integration
+E-Bullet Journal Application - Built a desktop GUI bullet-journal application with JavaFX, allowing users to note daily tasks and events in an intuitive interface.
+
+Learnings: Frontend development, App design
  
 
 📫 How to Reach Me:
 Email: chuma.w@northeastern.edu
 LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/winnie-chuma/)
- 
-
-📊 GitHub Stats: Coming soon!
  
 
 ✨ Fun Fact:
