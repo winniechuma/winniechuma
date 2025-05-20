@@ -1,5 +1,6 @@
 👋 Hi, I'm Winnie!
 🎓 Rising Senior at Northeastern University, studying Computer Science and Business Administration with a concentration in Supply Chain Management
+
 🔭 Aspiring Software developer Enthusiast while utilizing my business skills 
 
 
@@ -14,10 +15,15 @@ Tools: Python, HuggingFace embeddings, LangChain, Streamlit, GitHub
  
 
 🛠 Tech Stack:
+
 Languages: Java, Python, SQL, MySQL, JavaScript
+
 Data Science: Pandas, NumPy, scikit-learn
+
 Web Dev: HTML(basic), JavaScript (basic)
+
 Tools: VSCode, Jupyter Notebooks, Google Colab, Git, GitHub
+
 Databases: SQL, MySQL
  
 
@@ -33,6 +39,7 @@ Link: https://github.com/winniechuma/weekly-journal/tree/main
 
 📫 How to Reach Me:
 Email: chuma.w@northeastern.edu
+
 LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/winnie-chuma/)
  
 
