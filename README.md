@@ -24,8 +24,8 @@ Databases: SQL, MySQL
 A few other noteworthy project I’ve worked on:
 
 E-Bullet Journal Application - Built a desktop GUI bullet-journal application with JavaFX, allowing users to note daily tasks and events in an intuitive interface.
-
 Learnings: Frontend development, App design
+Link: https://github.com/winniechuma/weekly-journal/tree/main
  
 
 📫 How to Reach Me:
