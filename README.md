@@ -1,9 +1,8 @@
 👋 Hi, I'm Winnie!
-🎓 Junior at Northeastern University, studying Computer Science and Business Administration
+🎓 Rising Senior at Northeastern University, studying Computer Science and Business Administration with a concentration in Supply Chain Management
 🔭 Aspiring Software developer Enthusiast while utilizing my business skills 
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
-
+I love Computer Science and very open to trying to every aspect of it before decidind on what interest me more. I will list them more throughly down below, but I have worked on a game project, a jou7rnal kind project, AI related project, and databases related projects. I thought I wasn't into projects requiring alot of data reading and collecting, but as someone who is big on continuously learning and building my skills, I believe taking initiative is key to growth. A year ago, I was accepted into the Break Through Tech program, and I completed it this last Spring of 2025. I focused on building machine learning models and dived deeper into data science. I’m looking to leverage and grow my skills in a professional setting where I can contribute to exciting projects and learn from industry professionals.
  
 
 🎯 Featured Project: https://github.com/wu-ada/26-CNM-Chatbot
