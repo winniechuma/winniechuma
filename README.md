@@ -1,5 +1,5 @@
 👋 Hi, I'm Winnie!
-🎓 Rising Senior at Northeastern University, studying Computer Science and Business Administration with a concentration in Supply Chain Management
+🎓 Northeastern University graduate, studied Computer Science and Business Administration with a concentration in Supply Chain Management
 
 🔭 Aspiring Software developer Enthusiast while utilizing my business skills 
 
